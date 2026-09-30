@@ -1,2 +1,2 @@
 # SPM-Lab
-Everything is just example
+Lab report of SPM
